@@ -1,0 +1,6 @@
+[submodule "donezo-api"]
+	path = donezo-api
+	url = https://github.com/ganhongyao/donezo-api.git
+[submodule "donezo-frontend"]
+	path = donezo-frontend
+	url = https://github.com/ganhongyao/donezo-frontend.git
