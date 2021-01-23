@@ -3,6 +3,6 @@
 - Name: Gan Hong Yao
 - Matriculation Number: A0217912H
 
-<a href="itsdonezo.herokuapp.com">Access the working application here</a>
+<a href="https://itsdonezo.herokuapp.com">Access the working application here</a>
 - Guest email: cvwoguest@gmail.com
 - Guest password: password
